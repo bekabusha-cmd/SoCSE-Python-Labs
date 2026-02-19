@@ -1,1 +1,0 @@
-# SoCSE-Python-Labs
